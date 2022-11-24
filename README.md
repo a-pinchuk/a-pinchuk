@@ -1,4 +1,4 @@
-👋 Hi, I’m Andrii Pinchuk
+👋 Hi, I’m Andrew Pinchuk
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-pinchuk&show_icons=true&theme=tokyonight);
 
