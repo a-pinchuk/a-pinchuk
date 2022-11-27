@@ -1,4 +1,4 @@
-👋 Hi, I’m Andrew Pinchuk
+👋 Hi, I’m Andrew Pinchuk, Full Stack Developer with 1 year experience.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-pinchuk&show_icons=true&theme=tokyonight);
 
