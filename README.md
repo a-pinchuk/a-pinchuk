@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-pinchuk&layout=compact&theme=tokyonight);
 
-<a target="_blank" href="https://www.codewars.com"><img src="https://www.codewars.com/users/a-pinchuk/badges/large" alt="codewars badge large" /></a>
+<a target="_blank" href="https://www.codewars.com"><img src="https://www.codewars.com/users/a-pinchuk/badges/small" alt="codewars badge large" /></a>
 
 STACK & TOOLS:
 
