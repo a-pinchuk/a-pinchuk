@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-pinchuk&layout=compact&theme=tokyonight);
 
-<a target="_blank" href="https://www.codewars.com"><img src="https://www.codewars.com/users/a-pinchuk/badges/small" alt="codewars badge large" /></a>
-
 STACK & TOOLS:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,swift,git,github,ps)](https://skillicons.dev)
